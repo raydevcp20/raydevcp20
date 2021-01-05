@@ -35,8 +35,12 @@
 
 ### **📈 Estátisticas**
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=raydevcp20&show_icons=true&theme=gotham" alt="raydevcp20" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raydevcp20&hide=TeX&layout=compact)
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=raydevcp20&show_icons=true&theme=gotham" alt="raydevcp20" />
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raydevcp20&hide=TeX&layout=compact)
+</p>
+
 
 ### Fica a vontade e não esquece de me seguir e de dar um feedback 🦄. 
 
