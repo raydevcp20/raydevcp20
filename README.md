@@ -37,8 +37,7 @@
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=raydevcp20&show_icons=true&theme=gotham" alt="raydevcp20" />
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raydevcp20&hide=TeX&layout=compact)
+  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=raydevcp20&theme=gotham&show_icons=true" />
 </p>
 
 
