@@ -36,8 +36,8 @@
 ### **📈 Estátisticas**
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=raydevcp20&show_icons=true&theme=gotham" alt="raydevcp20" />
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=raydevcp20&theme=gotham&show_icons=true" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raydevcp20&hide=html&layout=compact&theme=gotham" />
 </p>
 
 
