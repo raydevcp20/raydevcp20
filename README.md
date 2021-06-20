@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rayane-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-cristina-19b2b0140/)](https://www.linkedin.com/in/rayane-cristina-19b2b0140/)
 [![Website Badge](https://img.shields.io/badge/-RayaneCristina.netlify-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rayanecristina.netlify.app/)](https://rayanecristina.netlify.app/)
 [![Instagram Badge](https://img.shields.io/badge/-@ray_cp20-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ray_cp20/)](https://www.instagram.com/ray_cp20/)
-[![Behance Badge](https://img.shields.io/badge/-@rayanecristina2-purple?style=flat&logo=instagram&logoColor=white&link=https://www.behance.net/rayanecristina2/)](https://www.behance.net/rayanecristina2)
+[![Behance Badge](https://img.shields.io/badge/-@rayanecristina2-blue?style=flat&logo=behance&logoColor=white&link=https://www.behance.net/rayanecristina2/)](https://www.behance.net/rayanecristina2)
 [![Gmail Badge](https://img.shields.io/badge/-rayanecristina.19-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rayanecristina.19@gmail.com)](mailto:rayanecristina.19@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
 
