@@ -34,7 +34,7 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-### **📈 Estátisticas**
+### **📈 Estatísticas**
 
 <p align="center"> 
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=raydevcp20&theme=gotham&show_icons=true" />
