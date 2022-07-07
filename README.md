@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-rayanecristina.19-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rayanecristina.19@gmail.com)](mailto:rayanecristina.19@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
 
-### Oi oi, meu nome é [Rayane Cristina!](https://rayanecristina.netlify.app/) Sou graduanda de Análise e Desenvolvimento de Software na UNINASSAU e amante de desenvolvimento web, possuo técnico em informática para a internet pelo IFPE e computação gráfica pela SAGA. Atualmente sou desenvolvedora fullstack na Ustore e docente de Angular no SENAI de Santa Catarina, designer free-lancer a 4 anos e vice-presidente da [LAFTEC](https://www.instagram.com/laftecuninassau/)(Liga Acadêmica Feminina de Tecnologia). O meu objetivo é me tornar cada dia melhor na área de desenvolvimento e atrair cada dia mais pessoas pro lado code da força, além de integrar o melhor dos dois mundos 🚀.
+### Oi oi, meu nome é [Rayane Cristina!](https://rayanecristina.netlify.app/) Sou graduada de Análise e Desenvolvimento de Software na UNINASSAU e amante de desenvolvimento web, possuo técnico em informática para a internet pelo IFPE e computação gráfica pela SAGA. Atualmente sou desenvolvedora fullstack na Ustore e docente de Angular, javascript, html e css no SENAI de Santa Catarina e vice-presidente da [LAFTEC](https://www.instagram.com/laftecuninassau/)(Liga Acadêmica Feminina de Tecnologia). O meu objetivo é me tornar cada dia melhor na área de desenvolvimento e atrair mais pessoas pro lado code da força, além de integrar o melhor dos dois mundos 🚀.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?raw=true" width="400" height="320" />
   
