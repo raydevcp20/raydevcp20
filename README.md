@@ -1,13 +1,13 @@
 ## - Hello World, meu nome é Rayane e bem vindo(a) ao meu github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rayane-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-cristina-19b2b0140/)](https://www.linkedin.com/in/rayane-cristina-19b2b0140/)
-[![Website Badge](https://img.shields.io/badge/-RayaneCristina.netlify-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://rayanecristina.netlify.app/)](https://rayanecristina.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-RayaneCristina.netlify-3D2595?style=flat&logo=Google-Chrome&logoColor=white&link=http://rayanecristina.com.br/)](http://rayanecristina.com.br/)
 [![Instagram Badge](https://img.shields.io/badge/-@ray_cp20-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ray_cp20/)](https://www.instagram.com/ray_cp20/)
 [![Behance Badge](https://img.shields.io/badge/-@rayanecristina2-blue?style=flat&logo=behance&logoColor=white&link=https://www.behance.net/rayanecristina2/)](https://www.behance.net/rayanecristina2)
 [![Gmail Badge](https://img.shields.io/badge/-rayanecristina.19-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rayanecristina.19@gmail.com)](mailto:rayanecristina.19@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=raydevcp20.raydevcp20)
 
-### Oi oi, meu nome é [Rayane Cristina!](https://rayanecristina.netlify.app/) Sou graduada em Análise e Desenvolvimento de Software na UNINASSAU e amante de desenvolvimento web, possuo técnico em informática para a internet pelo IFPE e computação gráfica pela SAGA. Atualmente sou desenvolvedora fullstack na Ustore e docente de Angular, javascript, html e css no SENAI de Santa Catarina e vice-presidente da [LAFTEC](https://www.instagram.com/laftecuninassau/)(Liga Acadêmica Feminina de Tecnologia). O meu objetivo é me tornar cada dia melhor na área de desenvolvimento e atrair mais pessoas pro lado code da força, além de integrar o melhor dos dois mundos 🚀.
+### Oi oi, meu nome é [Rayane Cristina!](https://rayanecristina.com.br/) Sou graduada em Análise e Desenvolvimento de Software na UNINASSAU e amante de desenvolvimento web, possuo técnico em informática para a internet pelo IFPE e computação gráfica pela SAGA. Atualmente sou desenvolvedora fullstack na Ustore e docente de Angular, javascript, html e css no SENAI de Santa Catarina e vice-presidente da [LAFTEC](https://www.instagram.com/laftecuninassau/)(Liga Acadêmica Feminina de Tecnologia). O meu objetivo é me tornar cada dia melhor na área de desenvolvimento e atrair mais pessoas pro lado code da força, além de integrar o melhor dos dois mundos 🚀.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/U7bl3Rw7ya7isgzVt3/giphy.gif?raw=true" width="400" height="320" />
   
@@ -16,8 +16,8 @@
 - 👨🏽‍💻 Amo informática e todas as possibilidade que a tecnologia nos traz;
 - 👾 Jogar e ler mangá está entre uma das atividades de lazer que eu mais amo fazer;
 - 💬 Sou ótima para tirar dúvidas e amo ajudar quem precisa, principalmente se for pra escolher a pílula vermelha hehe;
-- 📫 Visite meu site: [Rayane](https://rayanecristina.netlify.app/);
-- 📝[Currículo](https://rayanecristina.netlify.app/cv.html);
+- 📫 Visite meu site: [Rayane](https://rayanecristina.com.br/);
+- 📝[Currículo](https://drive.google.com/file/d/122Nd1q7cyzQQhL98tQ521qiKXurvTouv/view?usp=sharing);
 
 ### **Linguagens ou ferramentas que sei:**  
 
