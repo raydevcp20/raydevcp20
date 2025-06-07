@@ -1,6 +1,6 @@
 ## - Hello World, meu nome é Rayane e bem vindo(a) ao meu github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rayane-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-cristina/)](https://www.linkedin.com/in/rayane-cristina)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rayane-cristina/)](https://www.linkedin.com/in/rayane-cristina)
 [![Website Badge](https://img.shields.io/badge/-RayaneCristina-3D2595?style=flat&logo=Google-Chrome&logoColor=white&link=http://rayanecristina.com.br/)](http://rayanecristina.com.br/)
 [![Instagram Badge](https://img.shields.io/badge/-@ray_cp20-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/ray_cp20/)](https://www.instagram.com/ray_cp20/)
 [![Gmail Badge](https://img.shields.io/badge/-rayanecristina.19-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rayanecristina.19@gmail.com)](mailto:rayanecristina.19@gmail.com)
